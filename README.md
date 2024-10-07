@@ -10,6 +10,7 @@ Esse é um Web Site estático responsivo da Alura Newsletter, uma newsletter des
 
 ## 🐟 Alura Newsletter
 ![alura-newsletter](https://github.com/user-attachments/assets/3e5cf28a-aa0e-4d0d-9615-f9bf23e11653)
+[Deploy Alura Newsletter](https://arthurscarpin.github.io/alura-newsletter/)
 
 ## 🦈 Técnicas de design
 - HTML semântico;
